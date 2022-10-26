@@ -1,5 +1,6 @@
 import streamlit as st
 @st.cache
+
 st.markdown("# Task 1 ❄️")
 st.sidebar.markdown("# Task 1 ❄️")
 # Using object notation
