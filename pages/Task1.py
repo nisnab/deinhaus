@@ -9,7 +9,6 @@ choice=st.sidebar.selectbox("Select questions",questions)
 
 
 import pandas as pd
-import matplotlib.pyplot as plt
 st.title('DeinHaus Data Explorer')
 st.text('This is a web app to allow exploration of deinhaus data')
 
